@@ -1,7 +1,7 @@
 {
   "name": "mapboxtesting",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@auth0/auth0-spa-js": "^1.2.4",
     "@chakra-ui/core": "^0.2.8",
